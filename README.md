@@ -86,3 +86,7 @@ The script will perform the following actions:
 
 *   This script **overwrites** the target files. While backups are created, always double-check your `.env` values before running.
 *   After running the script, a reboot might be required for some system changes (like hostname) to take full effect.
+
+<div align="center">
+  <sub>Developed by KNP| Last Updated: Aug 2025</sub>
+</div>
